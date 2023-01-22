@@ -201,6 +201,8 @@ symbol = input("Enter a symbol to use: ")
 
 # git merge - tell github merge other branch in branch we're on
 
+# git pull - to update the changes made by others
+
 # I am Christ John
 # How are you?
 # Are you in college?

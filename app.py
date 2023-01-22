@@ -195,6 +195,8 @@ symbol = input("Enter a symbol to use: ")
 # git push --set-upstream origin {Brach-A} - after the new, commit this
 # git checkout main - go back in default branch
 
+# git status - tell what branch are you on
+
 # I am Christ John
 # How are you?
 # Are you in college?

@@ -191,6 +191,10 @@ symbol = input("Enter a symbol to use: ")
 # git add . - to add multiple files at one time
 # git commit - m
 
+# git checkout -b {name} - having a new branch/initial
+# git push --set-upstream origin {Brach-A} - after the new, commit this
+# git checkout main - go back in default branch
+
 # I am Christ John
 # How are you?
 # Are you in college?

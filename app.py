@@ -175,3 +175,17 @@ import time
 rows = int(input("How many rows?: "))
 columns = int(input("How many columns?: "))
 symbol = input("Enter a symbol to use: ")
+
+# Continue
+
+# Learning Git
+# first create repository and coppy ssh url
+# go to git bash, add "git clone {ssh url}"
+# You're ready to go
+
+# When adding a new file, enter "git add app.py(e.g)"
+# git commit -m "added app.py file (e.g)" - when you want to add a message
+# git diff -will tell us everything the difference between the current version in our directory and the version in git
+
+# press q when there is ": "
+# git add . - to add multiple files once - easy way

@@ -191,7 +191,8 @@ symbol = input("Enter a symbol to use: ")
 # git add . - to add multiple files at one time
 # git commit - m
 
-<< << << < HEAD
+# git push - adding changes to github
+
 # git checkout -b {name} - having a new branch/initial
 # git push --set-upstream origin {Brach-A} - after the new, commit this
 # git checkout main - go back in default branch
@@ -203,13 +204,3 @@ symbol = input("Enter a symbol to use: ")
 # I am Christ John
 # How are you?
 # Are you in college?
-== == == =
-# Pushing changes to GitHub
-# git push
-
-# git checkout -b {name}
-
-# git push --set-upstream origin Brach-A - when having new branch after "git push"
-
-# git checkout main - switch back to default branch
->>>>>> > Brach-A

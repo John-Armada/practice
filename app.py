@@ -193,3 +193,9 @@ symbol = input("Enter a symbol to use: ")
 
 # Pushing changes to GitHub
 # git push
+
+# git checkout -b {name}
+
+# git push --set-upstream origin Brach-A - when having new branch after "git push"
+
+# git checkout main - switch back to default branch

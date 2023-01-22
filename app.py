@@ -191,6 +191,5 @@ symbol = input("Enter a symbol to use: ")
 # git add . - to add multiple files at one time
 # git commit - m
 
-# I am Christ John
-# How are you?
-# Are you in college?
+# Pushing changes to GitHub
+# git push

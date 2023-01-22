@@ -197,6 +197,8 @@ symbol = input("Enter a symbol to use: ")
 
 # git status - tell what branch are you on
 
+# git merge - tell github merge other branch in branch we're on
+
 # I am Christ John
 # How are you?
 # Are you in college?

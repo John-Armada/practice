@@ -188,4 +188,9 @@ symbol = input("Enter a symbol to use: ")
 # git diff -will tell us everything the difference between the current version in our directory and the version in git
 
 # press q when there is ": "
-# git add . - to add multiple files once - easy way
+# git add . - to add multiple files at one time
+# git commit - m
+
+# I am Christ John
+# How are you?
+# Are you in college?

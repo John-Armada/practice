@@ -208,3 +208,10 @@ symbol = input("Enter a symbol to use: ")
 # Are you in college?
 
 print("I am John 2")
+
+# Whole process steps
+# 1 Create a project on github
+# 2 clone the project down to your local computer
+# 3 add any amount of code and changes that you want using the git add command
+# 4 Once you finalize those changes into a coherent version, use the commit command to commit those changes to git
+# 5 Lastly, after you've done all the adding and all the committing that you need to do for a particular feature or project then you use the git push command to push those changes back up to github

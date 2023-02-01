@@ -151,7 +151,7 @@
 # while loop = unlimited
 # for loop = limited
 
-import time
+# import time
 # For loop = a statement that will execute its block of code a limited amount of times
 # e.g. - timer, countdown
 
@@ -172,46 +172,43 @@ import time
 
 # nested loops = The "inner loop" will finish all of its iterations before finishing one iteration of the "outer loop"
 
-rows = int(input("How many rows?: "))
-columns = int(input("How many columns?: "))
-symbol = input("Enter a symbol to use: ")
+# rows = int(input("How many rows?: "))
+# columns = int(input("How many columns?: "))
+# symbol = input("Enter a symbol to use: ")
 
-# Continue
+# for i in range(rows):
+#     for j in range(columns):
+#         print(symbol, end="")
+#     print()
 
-# Learning Git
-# first create repository and coppy ssh url
-# go to git bash, add "git clone {ssh url}"
-# You're ready to go
 
-# When adding a new file, enter "git add app.py(e.g)"
-# git commit -m "added app.py file (e.g)" - when you want to add a message
-# git diff -will tell us everything the difference between the current version in our directory and the version in git
+# Loop Control Statements = change a loop execution from its normal sequence
 
-# press q when there is ": "
-# git add . - to add multiple files at one time
-# git commit - m
+# break = used to terminate the loop entirely
+# continue = skips to the next iteration of the loop
+# pass = does nothing, acts as a placeholder
 
-# git push - adding changes to github
+# while True:
+#     name = input("Enter your name: ")
+#     if name != "":
+#         break
 
-# git checkout -b {name} - having a new branch/initial
-# git push --set-upstream origin {Brach-A} - after the new, commit this
-# git checkout main - go back in default branch
+# phone_number = "123-456-7890"
+# for i in phone_number:
+#     if i == "-":
+#         continue
+#     print(i, end="")
 
-# git status - tell what branch are you on
+# for num in range(1, 11):
+#     print(num, end="")
 
-# git merge - tell github merge other branch in branch we're on
+# while True:
+#     name = input("Enter your name: ")
+#     if name != "":
+#         if name
+#         break
 
-# git pull - to update the changes made by others
-
-# I am Christ John
-# How are you?
-# Are you in college?
-
-print("I am John 2")
-
-# Whole process steps
-# 1 Create a project on github
-# 2 clone the project down to your local computer
-# 3 add any amount of code and changes that you want using the git add command
-# 4 Once you finalize those changes into a coherent version, use the commit command to commit those changes to git
-# 5 Lastly, after you've done all the adding and all the committing that you need to do for a particular feature or project then you use the git push command to push those changes back up to github
+# def my_name():
+#     while True:
+#         name = input("Enter your name: ")
+#         if name != "":

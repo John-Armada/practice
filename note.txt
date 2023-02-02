@@ -38,3 +38,9 @@ print("I am John 2")
 # to push those changes back up to github
 # Also you need to use branches in between there to be able to create new branches for certain features so that you do not bring different features into each other
 # Just merge after you have done creating branches for different features that describes what your project is all about
+
+
+
+#Python Crash Course - A Hands On, Project - Based Book
+    #Python programmers use all capital letters when naming variable to assign the value permanent and never be changed.
+        #E.G. SURNAME = "ARMADA"

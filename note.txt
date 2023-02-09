@@ -42,5 +42,9 @@ print("I am John 2")
 
 
 #Python Crash Course - A Hands On, Project - Based Book
-    #Python programmers use all capital letters when naming variable to assign the value permanent and never be changed.
+    
+#Python programmers use all capital letters when naming variable to assign the value permanent and never be changed.
         #E.G. SURNAME = "ARMADA"
+# it’s a good idea to make the name of your list plural, such as letters, digits, or names. 
+
+#append/inset, del/remove

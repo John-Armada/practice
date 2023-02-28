@@ -30,7 +30,27 @@
 # full_name = first_name + " " + last_name
 # print(full_name)
 
-fav_num = 14
-message = f"My favorite number is {fav_num}"
-print(message)
-print("I am going to achieve my dreams in Life")
+# fav_num = 14
+# message = f"My favorite number is {fav_num}"
+# print(message)
+# print("I am going to achieve my dreams in Life")
+
+# import this - The Zen of Python, by Tim Peters
+
+# courses = ["Information Technology",
+#            "Computer Science", "Digital Media in Arts"]
+# message = f"I am taking Bachelor of Science in {courses[1].title()} Major in Web Development"
+# print(message)s
+
+# motorcycles = []
+# motorcycles.append("Honda")
+# motorcycles.append("Yamaha")
+# motorcycles.append("Suzuki")
+# motorcycles.append("Ducati")
+# print(motorcycles)s
+
+fav_subjects = ["Math", "English"]
+fav_subjects.insert(1, "Programming")
+print(fav_subjects)
+
+# end at 76 of 548

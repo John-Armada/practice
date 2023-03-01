@@ -1,5 +1,6 @@
 # Christ John Armada - BSCS - 1
 
+
 def prelim_lab():
     import random
 
@@ -18,8 +19,12 @@ def prelim_lab():
         while True:
             # Ask each player for their guess
             try:
-                player_1_guess = int(input(f"\n{player_1}, please enter a number from 1 to 10: "))
-                player_2_guess = int(input(f"{player_2}, please enter a number from 1 to 10: "))
+                player_1_guess = int(
+                    input(f"\n{player_1}, please enter a number from 1 to 10: ")
+                )
+                player_2_guess = int(
+                    input(f"{player_2}, please enter a number from 1 to 10: ")
+                )
             except ValueError:
                 print("Please enter numbers only")
             else:
@@ -28,7 +33,9 @@ def prelim_lab():
         # Check if both players guessed the same number
         if player_1_guess == player_2_guess:
             while True:
-                player_2_guess = int(input(f"No cheating, {player_2}! Please enter a different number: "))
+                player_2_guess = int(
+                    input(f"No cheating, {player_2}! Please enter a different number: ")
+                )
                 if player_1_guess != player_2_guess:
                     if player_1_guess and player_2_guess != x:
                         print(f"Sorry, the random number is {x}. Try again.")
@@ -53,4 +60,3 @@ def prelim_lab():
 
 
 prelim_lab()
-
